@@ -1,2 +1,4 @@
 # cosmos-monsters
-Repository for the COSMOS Monsters sample
+This repository will be used to store high-level data.
+
+You can use the wiki for keeping information.
